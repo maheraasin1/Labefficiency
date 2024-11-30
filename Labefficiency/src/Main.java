@@ -1,6 +1,3 @@
-//Mahera Asin 
-//October 25 2024 
-//DMV efficiency 
 import java.util.Queue;
 import java.util.Scanner;
 import java.util.concurrent.BlockingQueue;
@@ -56,5 +53,3 @@ public class Main {
         scanner.close();
     }
 }
-
-
